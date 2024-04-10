@@ -27,7 +27,7 @@ O objetivo principal deste projeto é desenvolver conhecimentos em frontend, ger
 Sugestões e contribuições são bem-vindas! Se você tiver alguma ideia para melhorar o gerador de QR Code, sinta-se à vontade para abrir uma issue ou enviar um pull request. Sua colaboração é muito apreciada.
 
 ## Autor 👤
-O gerador de QR Code foi desenvolvido por Rodolfo[coloque seu nome] 👨‍💻. Se você tiver alguma dúvida ou sugestão, entre em contato.Qualquer feedback para melhorar a documentação será apreciado. Obrigado! 🙏
+O gerador de QR Code foi desenvolvido por Rodolfo 👨‍💻. Se você tiver alguma dúvida ou sugestão, entre em contato.Qualquer feedback para melhorar a documentação será apreciado. Obrigado! 🙏
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ProfRodolfo/gerador_qrcode/blob/main/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/ProfRodolfo/gerador_qrcode)](https://github.com/ProfRodolfo/gerador_qrcode/issues)
